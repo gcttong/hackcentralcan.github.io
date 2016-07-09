@@ -2,11 +2,11 @@
 	$name = $_POST['name'];
 	$email = trim($_POST['email']);
 	$formcontent="Name: $name\n\nEmail: $email\n";
-	$recipient = "kenkenh94@gmail.com";
+	$recipient = "mailing-list@hackcentral.ca";
 	$subject = "Add Me To The List";
 
-	$mailheader = "From: $email\\r\\n";
-	$mailheader .= "Reply-To: $email\\r\\n";
+	$mailheader = "From: $email\r\n";
+	$mailheader .= "Reply-To: $email\r\n";
 
     error_reporting(0);
 

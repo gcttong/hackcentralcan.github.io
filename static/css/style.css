@@ -1,8 +1,3 @@
-/* See Soon - Coming Soon/Under Construction Responsive Template
-Author: EGrappler.com
-Tags: Dark, coming soon, under construction, black, one column
-*/
-
 body{
 	background:#202020;
 	color:#fff;
@@ -21,7 +16,7 @@ a:focus{
 	outline:none;
 }
 h1, h2, h3, h4, h5, h6{
-	font-family:'Coustard', sans-serif;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin:0;
 	padding:0;
 	font-weight:300;
@@ -64,65 +59,6 @@ h6{
 		background:rgba(0, 0, 0, 0.6);
 		padding:30px 0;
 	}
-
-.hexagon {
-  position: relative;
-  width: 70px; 
-  height: 40.41px;
-  background-color: #05c3f9 ;
-  margin: 90px auto 140px auto;
-  box-shadow: 0 0 10px rgba(0,0,0,0.35);
-}
-
-.hexagon:before,
-.hexagon:after {
-  content: "";
-  position: absolute;
-  z-index: 1;
-  width: 49.50px;
-  height: 49.50px;
-  -webkit-transform: scaleY(0.5774) rotate(-45deg);
-  -ms-transform: scaleY(0.5774) rotate(-45deg);
-  transform: scaleY(0.5774) rotate(-45deg);
-  background-color: inherit;
-  left: 10.2513px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.35);
-}
-
-.hexagon:before {
-  top: -24.7487px;
-}
-
-.hexagon:after {
-  bottom: -24.7487px;
-}
-
-/*cover up extra shadows*/
-.header-logo span {
-  display: block;
-  position: absolute;
-  top:0px;
-  left: 0;
-  width:70px;
-  height:40.4145px;
-  z-index: 2;
-  background: inherit;
-}
-
-	.logo{
-		text-align:center;
-		padding:30px 0;
-		background:#05c3f9;
-		width:12%;
-		margin:0 auto;
-	}
-
-.header-logo i { font-size: 50px;
-color: #fff;
-position: absolute;
-left: 35%;
-z-index: 10;
-top: -13%; }
 	#header .main-head h2, #header .main-head h4{
 		font-weight:300;
 	}
@@ -146,43 +82,6 @@ top: -13%; }
 			line-height:36px;
 		}
 
-/* Services */
-
-#services{
-}
-.sblock{border:1px solid transparent; -webkit-transition: all 0.5s ease;
-					   -moz-transition: all 0.5s ease;
-					     -o-transition: all 0.5s ease;
-					       }
-.sblock:hover { border:1px solid rgba(5, 195, 249, 0.5); background:rgba(5, 195, 249, 0.5); }
-
-#services p { font-size:16px; }
-	.services-overlay{
-		background:rgba(0, 0, 0, 0.9);
-		padding:70px 0;
-	}
-	#services-blocks{
-	}
-		#services-blocks div{
-			text-align:center;
-			padding:20px 20px 30px 20px;
-		}
-			#services-blocks div span.fa{
-				
-				width:110px;
-				height:110px;
-				line-height:110px;
-				font-size:60px;
-				
-				color:rgba(255,255,255,1);
-				-webkit-border-radius:50%;
-				   -moz-border-radius:50%;
-						border-radius:50%;
-			}
-			#services-blocks h4{
-				padding:20px 0;
-			}
-
 /* Contact  */
 
 input { border: 1px solid #fff !important; -webkit-box-shadow: none !important;
@@ -190,9 +89,11 @@ box-shadow: none !important; }
 #contact{
 	background: rgba(191, 203, 249, 0);
 	padding:50px 0;
-}	
-.MT40 { margin-top:40px;}
-#contact p { font-size:16px;}
+}
+#contact p {
+	font-size:16px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 	#contact-area{
 	}
 		#contact-area h3{
