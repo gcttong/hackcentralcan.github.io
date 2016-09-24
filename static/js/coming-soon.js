@@ -8,7 +8,7 @@ $(function() {
 	});
 
 	// Backstretchs
-	$("#header").backstretch("static/imgs/winnipeg_downtown.jpg");
+	$("#header").backstretch("static/imgs/winnipeg_winter.jpg");
 	
 	// Countdown
 	$('.countdown').downCount({

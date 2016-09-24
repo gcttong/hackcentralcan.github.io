@@ -1,205 +1,318 @@
-body{
-	background:#202020;
-	color:#fff;
-	font:18px/28px 'Raleway', sans-serif;
-	font-weight:300;
+/* Footer  */
+
+#footer {
+    padding-top: 50px;
+    font-size: 13px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1)
+}
+
+/* Footer Style Starts */
+
+#footer ul.sm-links li a span {
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+}
+
+.copyright {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 12px;
+}
+
+.button-group {
+    padding-top: 35px;
+}
+
+body {
+    background: #202020;
+    color: #fff;
+    font: 18px/28px 'Raleway', sans-serif;
+    font-weight: 300;
 }
 
 /* General  */
 
-a, a:hover, a:focus{
-	color:#fff;
-}
-a:hover{
-}
-a:focus{
-	outline:none;
-}
-h1, h2, h3, h4, h5, h6{
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	margin:0;
-	padding:0;
-	font-weight:300;
-}
-h1{
-	font-size:72px;
-}
-h2{
-	font-size:40px;
-}
-h3{
-	font-size:36px;
-}
-h4{
-	font-size:30px;
-}
-h5{
-	font-size:24px;
-}
-h6{
-	font-size:18px;
+a, a:hover, a:focus {
+    color: #fff;
 }
 
+a:hover {
+}
+
+a:focus {
+    outline: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+h5 {
+    font-size: 24px;
+}
+
+h6 {
+    font-size: 18px;
+}
 
 .loader {
-	position:fixed;
-	left:0;
-	top:0;
-	width:100%;
-	height:100%;
-	z-index:9999;
-	background:#000 url(../imgs/loader_square.gif) 50% 50% no-repeat;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: #000 url(../imgs/loader_square.gif) 50% 50% no-repeat;
 }
 
 /* Header  */
 
-#header{
+#header {
 }
-	.header-overlay{
-		background:rgba(0, 0, 0, 0.6);
-		padding:30px 0;
-	}
-	#header .main-head h2, #header .main-head h4{
-		font-weight:300;
-	}
-	#header .main-head h4{
-		line-height:40px;
-	}
+
+.header-overlay {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 220px 0;
+}
+
+#header .main-head h2, #header .main-head h4 {
+    font-weight: 300;
+}
+
+#header .main-head h4 {
+    line-height: 40px;
+}
 
 /* Main Heading Style Starts */
 
-	.main-head{
-		text-align:center;
-		padding:0 0 40px;
-	}
-		.main-head h2, .main-head p{
-		}
-		.main-head h2{
-			padding:0 0 20px;
-		}
-		.main-head p{
-			font-size:24px;
-			line-height:36px;
-		}
+.main-head {
+    text-align: center;
+    padding: 0 0 40px;
+}
+
+.main-head h2, .main-head p {
+}
+
+.main-head h2 {
+    padding: 0 0 20px;
+}
+
+.main-head p {
+    font-size: 24px;
+    line-height: 36px;
+}
+
+#sponsors {
+    background: #FAFAFA;
+    padding: 50px 0;
+}
+
+#sponsors h2 {
+    color: black;
+}
 
 /* Contact  */
-
-input { border: 1px solid #fff !important; -webkit-box-shadow: none !important;
-box-shadow: none !important; }
-#contact{
-	background: rgba(191, 203, 249, 0);
-	padding:50px 0;
+input {
+    border: 1px solid #fff !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
 }
+
+#contact {
+    background: rgba(191, 203, 249, 0);
+    padding: 50px 0;
+}
+
 #contact p {
-	font-size:16px;
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-	#contact-area{
-	}
-		#contact-area h3{
-			padding:0 0 38px 0;
-		}
-		#contact-form{
-			margin-top: 10px
-		}
-			#contact-form .form-group{
-				margin:0 0 20px;
-			}
-				#contact-form .form-control{
-					
-					font-size:16px;
-					font-weight:400;
-					-webkit-border-radius:5px;
-					   -moz-border-radius:5px;
-					        border-radius:5px;
-					
-				}
-				#contact-form .form-control:focus{
-					border-color:#fff;
-				}
-				#contact-form input.form-control{
-					height:40px;
-					line-height:40px !important;
-					padding:3px 20px 0;
-				}
-				
-				
-		
-
-/* Footer  */
-
-#footer{
-	padding:10px 0;
-	margin-top:40px;
-	font-size:13px;
-	text-align:center;
-	background:rgba(255,255,255,0.1)
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-#footer p {margin:10px; }
-	
-	
-	/* Responsive */
-	
-	
-		
+#contact-area {
+}
+
+#contact-area h3 {
+    padding: 0 0 38px 0;
+}
+
+#contact-form {
+    margin-top: 10px
+}
+
+#contact-form .form-group {
+    margin: 0 0 20px;
+}
+
+#contact-form .form-control {
+
+    font-size: 16px;
+    font-weight: 400;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+}
+
+#contact-form .form-control:focus {
+    border-color: #fff;
+}
+
+#contact-form input.form-control {
+    height: 40px;
+    line-height: 40px !important;
+    padding: 3px 20px 0;
+}
+
 /* Contact Style Starts */
 
-	#contact h3, .address, #contact-form .form-group{
-		text-align:center;
-	}
-	#contact-area{
-		padding-bottom:20px;
-	}
-	
+#contact h3, .address, #contact-form .form-group {
+    text-align: center;
+}
 
-
-
+#contact-area {
+    padding-bottom: 20px;
+}
 
 @media (max-width: 767px) {
 
-/* Countdown Style Starts */
+    /* Countdown Style Starts */
+    ul.countdown li {
+        display: inline-block;
+        margin: 5px;
+        padding: 0;
+    }
 
-	ul.countdown li{
-		display:inline-block;
-		margin:5px;
-		padding:0;
-	}
-		ul.countdown li span{
-			width:100px;
-			height:100px;
-			display:block;
-			font-size:48px;
-			font-weight:300;
-			line-height:100px;
-			border:2px solid #fff;
-			-webkit-border-radius:50%;
-			   -moz-border-radius:50%;
-					border-radius:50%;
-		}
-		ul.countdown li p{
-			padding:15px 0;
-		}
+    ul.countdown li span {
+        width: 100px;
+        height: 100px;
+        display: block;
+        font-size: 48px;
+        font-weight: 300;
+        line-height: 100px;
+        border: 2px solid #fff;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        border-radius: 50%;
+    }
 
-/* Contact Style Starts */
+    ul.countdown li p {
+        padding: 15px 0;
+    }
 
-	#contact h3, .address, #contact-form .form-group{
-		text-align:center;
-	}
-	#contact-area{
-		padding-bottom:20px;
-	}
+    /* Contact Style Starts */
+    #contact h3, .address, #contact-form .form-group {
+        text-align: center;
+    }
 
-/* Footer Style Starts */
+    #contact-area {
+        padding-bottom: 20px;
+    }
+}
 
-	#footer ul.sm-links li a span{
-		width:45px;
-		height:45px;
-		line-height:42px;
-		font-size:20px;
-	}
-	.copyright{
-		font-size:16px;
-	}
-	
+.navbar {
+    margin-bottom: 0px;
+    border: 0px;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.navbar-default {
+    background-color: #fff;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    -webkit-box-shadow: 0px 3px 3px #B0A57C;
+    -moz-box-shadow: 0px 3px 3px #B0A57C;
+    box-shadow: 0px 3px 3px #B0A57C;
+}
+
+.affix + .container {
+    padding-top: 70px;
+}
+
+.navbar-default {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 0px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    position: absolute;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-family: 'Chewy', cursive;
+    font-size: 32px;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #EA6045;
+}
+
+.white, .white:hover, .white:focus {
+    color: #fff;
+    width: 100% !important;
+}
+
+.block {
+    display: block;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #fff;
+    text-transform: uppercase;
+    background-color: rgba(12, 184, 182, 0.21);
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+    text-transform: uppercase;
+    background-color: rgba(12, 184, 182, 0.21);
+}
+
+.affix {
+    background-color: #ffffff !important;
+}
+
+.affix .navbar-nav > li > a:hover, .affix .navbar-nav > li > a:focus {
+    background-color: rgba(12, 184, 182) !important;
 }

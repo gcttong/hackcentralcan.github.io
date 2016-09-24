@@ -2,582 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4444c06a-d76b-46ab-a9ac-6301e32cfeb0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/common-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/dashboard-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/editor-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/frontpage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/jquery-ui-classic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/jquery-ui-fresh.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/jquery.miniColors.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/manage-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/newsletter-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/overview-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/piechart.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/settings-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/subscriber-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/css/templates-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/font/Apache License Version 2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/font/OpenSans-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/cartographer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/climpek.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/double_lined.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/exclusive_paper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/fabric_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/furley_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/graphy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/greyfloral.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/gridme.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/h-lines.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/hexellence.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/leather_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/light_noise_diagonal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/light_wool.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/noise_lines.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/noise_pattern_with_crosslines.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/old_mathematics.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/pattern14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/retina_dust.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/scribble_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/struckaxiom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/subtle_freckles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/tileable_wood_texture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/vichy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/white_tiles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/whitey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/wood_pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/bg/xv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/device_320x480.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/device_480x320.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ad.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ae.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/af.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ag.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ai.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/al.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/am.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/an.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ao.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/as.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/at.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/au.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/aw.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ax.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/az.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ba.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/be.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bi.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bj.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/br.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bw.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/by.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/bz.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ca.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ch.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ci.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ck.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cl.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/co.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cx.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/cz.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/de.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/dj.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/dk.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/dm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/do.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/dz.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ec.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ee.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/eg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/eh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/er.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/es.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/et.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/fam.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/fi.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/fj.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/fk.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/fm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/fo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/fr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ga.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ge.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gi.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gl.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gq.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gw.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/gy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/hk.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/hn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/hr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ht.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/hu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/id.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ie.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/il.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/in.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/io.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/iq.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ir.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/is.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/it.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/jm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/jo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/jp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ke.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/kg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/kh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ki.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/km.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/kn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/kp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/kr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/kw.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ky.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/kz.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/la.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/lb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/lc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/li.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/lk.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/lr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ls.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/lt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/lu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/lv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ly.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ma.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/md.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mk.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mq.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ms.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mw.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mx.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/my.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/mz.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/na.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/nc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ne.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/nf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ng.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ni.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/nl.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/no.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/np.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/nr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/nu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/nz.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/om.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pa.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pe.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ph.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pk.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pl.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ps.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/pw.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/py.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/qa.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ro.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ru.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/rw.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sa.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/se.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sh.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/si.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sk.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sl.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/so.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/st.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/sz.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/td.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/th.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tj.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tk.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tl.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/to.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tw.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/tz.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ua.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ug.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/um.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/unknown.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/us.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/uy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/uz.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/va.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/vc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ve.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/vg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/vi.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/vn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/vu.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/wf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ws.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/ye.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/yt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/za.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/zm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/flags/zw.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/clear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/clear_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/code_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/device-320x480.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/device-320x480_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/device-480x320.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/device-480x320_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/device-full.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/device-full_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/disk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/disk_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/document.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/document_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/draft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/draft_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/error_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/finished.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/finished_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/green_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/left_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/manage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/manage_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/menu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/menu_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/newsletter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/newsletter_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/no-receiver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/no-receiver_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/paused.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/paused_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/preview_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/progressing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/progressing_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/queued.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/queued_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/red_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/redo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/redo_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/reset.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/reset_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/right_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/share_facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/share_google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/share_linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/share_twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/subscriber.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/subscriber_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/templates.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/templates_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/undo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/undo_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/warning_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/zoomout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/icons/zoomout_2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-bg_flat_55_ffffe0_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-bg_flat_65_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-bg_flat_95_ffebe8_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-bg_highlight-hard_75_ececec_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-bg_highlight-hard_75_eff8ff_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-bg_inset-hard_75_ececec_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-bg_inset-hard_75_f7fcfe_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-icons_21759b_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-icons_333333_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-icons_999999_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/jquery-ui/ui-icons_cc0000_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/loading_2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/minicolors/circle.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/minicolors/gradient.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/minicolors/line.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/minicolors/rainbow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/minicolors/trigger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/modulebg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/pre_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/progress.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/progress_2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/share/share_facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/share/share_google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/share/share_linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/share/share_twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/blank_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/blank_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/blogger_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/blogger_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/delicious_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/delicious_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/digg_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/digg_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/evernote_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/evernote_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/facebook_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/facebook_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/google_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/google_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/googleplus_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/googleplus_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/linkedin_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/linkedin_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/pinterest_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/pinterest_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/reddit_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/reddit_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/sharethis_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/sharethis_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/stumbleupon_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/stumbleupon_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/twitter_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/twitter_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/xing_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/xing_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/yahoo_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/yahoo_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/zootool_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/social/zootool_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/img/trans_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/dashboard-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/frontpage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/jquery.miniColors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/manage-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/newsletter-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/piecharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/placeholder-fix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/settings-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/subscriber-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/assets/js/templates-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/autoresponder.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/form.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/InlineStyle.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/Ip2City.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/Ip2Country.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/dns.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/geoip.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/geoipcity.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/geoipregionvars.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/phpmailer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/phpmailer/class.phpmailer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/libs/phpmailer/class.smtp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/mail.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/mail.helper.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/manage.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/mymail.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/placeholder.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/settings.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/shortcodes.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/subscriber.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/templates.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/update.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/classes/widget.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/cron.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/includes/autoresponder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/includes/capability.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/includes/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/includes/social_services.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/includes/static.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/includes/updates.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-de_DE.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-de_DE.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-fr_FR.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-fr_FR.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-hr.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-hr.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-it_IT.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-it_IT.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-sk_SK.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-sk_SK.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/languages/mymail-xx_XX.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/myMail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/btn/more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/amazon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/android.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/apple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/appstore.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/behance.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/blogger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/delicious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/deviantart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/digg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/dribbble.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/drive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/dropbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/ebay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/flickr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/forrst.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/googleplus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/html5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/instagram.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/lastfm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/myspace.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/paypal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/picasa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/pinterest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/soundcloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/stumbleupon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/technorati.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/tumblr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/twitter_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/vimeo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/windows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/windows_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/wordpress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/yahoo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/dark/youtube.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/amazon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/android.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/apple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/appstore.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/behance.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/blogger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/delicious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/deviantart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/digg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/dribbble.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/drive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/dropbox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/ebay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/flickr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/forrst.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/googleplus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/html5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/instagram.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/lastfm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/myspace.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/paypal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/picasa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/pinterest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/soundcloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/stumbleupon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/technorati.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/tumblr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/twitter_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/vimeo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/windows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/windows_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/wordpress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/yahoo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/img/social/light/youtube.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/templates/mymail/notification.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/uninstall.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/dashboard.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/manage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/newsletter/delivery.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/newsletter/details.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/newsletter/lists.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/newsletter/options.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/newsletter/submit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/newsletter/template.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/settings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/single-newsletter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/subscriber/data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/subscriber/lists.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/subscriber/meta.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/subscriber/stats.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/subscriber/submit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/templates.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/myMail/views/welcome.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/subscriber.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/php/wp-config.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/docs/mlh-code-of-conduct.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/imgs/logoFinalMaincolor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/imgs/logofinalbanner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/imgs/logofinalbannertransp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/imgs/winnipeg_winter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/hackcentral-refresh.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/php/subscribe.php" afterPath="$PROJECT_DIR$/static/php/subscribe.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/coming-soon.js" afterPath="$PROJECT_DIR$/static/js/coming-soon.js" />
     </list>
     <ignored path="hackcentral.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -591,26 +25,6 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-              <entry file="file://$USER_HOME$/Downloads/seesoon/index.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="215">
-                    <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="174" selection-end-column="22" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -628,11 +42,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="65" column="165" selection-start-line="65" selection-start-column="165" selection-end-line="65" selection-end-column="165" />
+            <state relative-caret-position="323">
+              <caret line="58" column="95" selection-start-line="58" selection-start-column="95" selection-end-line="58" selection-end-column="95" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -641,24 +70,41 @@
       <file leaf-file-name="coming-soon.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/js/coming-soon.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="272">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <file leaf-file-name="scrollReveal.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/scrollReveal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1479">
-              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hackcentral-refresh.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/hackcentral-refresh.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -668,8 +114,9 @@
       <list>
         <option value="$PROJECT_DIR$/static/js/custom.js" />
         <option value="$PROJECT_DIR$/static/php/contact.php" />
-        <option value="$PROJECT_DIR$/static/js/coming-soon.js" />
         <option value="$PROJECT_DIR$/static/php/subscribe.php" />
+        <option value="$PROJECT_DIR$/static/js/coming-soon.js" />
+        <option value="$PROJECT_DIR$/static/js/hackcentral-refresh.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
       </list>
@@ -712,7 +159,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -742,10 +189,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -817,60 +260,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackcentral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackcentral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackcentral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hackcentral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font-awesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/New folder" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\hackcentral\static\imgs" />
+      <recent name="D:\Projects\hackcentral\static\docs" />
       <recent name="D:\Projects\hackcentral\static\php" />
       <recent name="D:\Projects\hackcentral\lib\font-awesome" />
       <recent name="D:\Projects\hackcentral\static" />
@@ -947,12 +353,15 @@
       <workItem from="1468013773902" duration="901000" />
       <workItem from="1468014687988" duration="1673000" />
       <workItem from="1468016380961" duration="6257000" />
-      <workItem from="1468023646976" duration="756000" />
+      <workItem from="1468023646976" duration="1355000" />
+      <workItem from="1470508836573" duration="67000" />
+      <workItem from="1474745704267" duration="781000" />
+      <workItem from="1474746512527" duration="7449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9587000" />
+    <option name="totallyTimeSpent" value="18483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -961,9 +370,9 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286004" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286004" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -975,24 +384,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1010,14 +401,118 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/php/contact.php">
+    <entry file="file://$PROJECT_DIR$/static/php/subscribe.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="15" selection-end-column="69" />
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/coming-soon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/php/subscribe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/coming-soon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/php/subscribe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/coming-soon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/php/contact.php" />
     <entry file="file://$PROJECT_DIR$/static/php/subscribe.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1026,19 +521,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/newsletterphp/NLprocess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/newsletterphp/NLprocess.php" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1058,27 +551,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/seesoon/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/php/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/seesoon/index.html" />
+    <entry file="file://$PROJECT_DIR$/static/php/contact.php" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1090,43 +574,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/seesoon/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/php/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/seesoon/index.html" />
+    <entry file="file://$PROJECT_DIR$/static/php/contact.php" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/seesoon/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/seesoon/index.html" />
     <entry file="file://$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-969">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1134,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1142,9 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1152,9 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-918">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1162,9 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1172,9 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1182,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-969">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1190,76 +643,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/scrollReveal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/php/subscriber.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3213">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/newsletterphp/NL-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/seesoon/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="174" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/static/php/subscriber.class.php" />
+    <entry file="file://$USER_HOME$/Downloads/newsletterphp/NL-style.css" />
     <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/newsletterphp/newsletter.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/newsletterphp/NLprocess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/php/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="15" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/newsletterphp/newsletter.htm" />
+    <entry file="file://$USER_HOME$/Downloads/newsletterphp/NLprocess.php" />
+    <entry file="file://$PROJECT_DIR$/static/php/contact.php" />
+    <entry file="file://$USER_HOME$/Downloads/seesoon/index.html" />
     <entry file="file://$PROJECT_DIR$/static/php/subscribe.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1268,26 +667,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/coming-soon.js">
+    <entry file="file://$USER_HOME$/Desktop/New folder/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="180" column="26" selection-start-line="180" selection-start-column="26" selection-end-line="180" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+    <entry file="file://$PROJECT_DIR$/static/js/hackcentral-refresh.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1479">
-          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        <state relative-caret-position="340">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/scrollReveal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/coming-soon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="65" column="165" selection-start-line="65" selection-start-column="165" selection-end-line="65" selection-end-column="165" />
+        <state relative-caret-position="323">
+          <caret line="58" column="95" selection-start-line="58" selection-start-column="95" selection-end-line="58" selection-end-column="95" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
           <folding />
         </state>
       </provider>
