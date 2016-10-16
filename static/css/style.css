@@ -250,6 +250,45 @@ input {
     background-color: #fff;
 }
 
+#FAQ {
+    background: #353c3c;
+    padding: 50px 0;
+}
+
+#FAQ h2 {
+    color: #fff;;
+}
+
+#FAQ p {
+    color: black;
+}
+
+#FAQ a, a:hover, a:focus {
+    color: #000;
+}
+
+.panel-heading [data-toggle="collapse"]:after {
+    float: right;
+    color: #F58723;
+    font-size: 18px;
+    line-height: 22px;
+    /* rotate "play" icon from > (right arrow) to down arrow */
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+
+.panel-heading [data-toggle="collapse"].collapsed:after {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    color: #454444;
+}
+
 .affix {
     top: 0;
     width: 100%;
